@@ -1,0 +1,7 @@
+Leonardo
+*Dia 0 (11/06/2021)
+	Finalizado Workspace:
+	Criado projeto na unity versão 2021.1.7f1.
+	Criado pasta no github e linkado ao gitkraken.
+	Criado os Boards no gitkraken boards.
+---------------------------------------------------------------------------------------------------

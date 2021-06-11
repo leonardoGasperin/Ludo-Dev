@@ -1,0 +1,45 @@
+GDD - Project "Ludo Experiment" (a discutir)
+based on Board game Ludo.
+
+equip:
+Leonardo(cargo a discutir)
+Caique(cargo a discutir)
+Rafael(cargo a discutir)
+----------------------------------------------------------------------------------------------------------------------------------------
+Genre: (Boardgame) => (2D || 3D/Third person)
+Theme: Board games
+target audience: T && M => 15+ (T for Teen (15-17) M for Mature (18+))
+Controllers: mouse && keyboard
+Tech:Unity 2021.1.7f1(or plus), Visual Studio 2019(C#), GitHub+GitKraken, GitKraken Boards, Sublime_Text 3.
+ArtWork: null for now
+Plataform: PC && Smartphone
+Core: 
+	*Fun && UX like the real game:
+		For this project, we wanna delivery to our public the same sensation you would have when playing
+		the physical version, having the same fun or if possible more then original.
+	*Competitive:
+		On this board game bring to the player the need of win the macth againts others on board, in this
+		project we need do the same bringing to players the necessity of own the game.
+	*Multiplayer:
+		To player feel like the physical version we need provide to the player, the possibility of play
+		against real people.		
+----------------------------------------------------------------------------------------------------------------------------------------
+Idea:
+	The Idea for this game is make a good replicate of original Boardgame, to get the best of pratice and learning
+	of developers experience.
+	
+		Climax:	On game, when the game are mostly on decide one winner, for both sides, make strategy+lucky to make
+		a twist on game or defend of it to win.
+	
+		UX:	entertainment, strongs emotionals feelings of physical version.
+	
+		Designer's Pillar: 
+			the player will experiment a digital version of Boardgame Ludo, bringing to player the same UX and sensation
+			of physical version, with same rules and possibility of original game.
+----------------------------------------------------------------------------------------------------------------------------------------
+Resource Development Priorities:
+	*all task will be in GitKraken Boards
+
+Similar Products:
+	Ludo Boardgame.
+----------------------------------------------------------------------------------------------------------------------------------------
